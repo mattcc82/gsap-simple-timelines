@@ -1,3 +1,6 @@
+body {
+    overflow: hidden;
+}
 .icon {
     opacity: .2;
     position: absolute;
